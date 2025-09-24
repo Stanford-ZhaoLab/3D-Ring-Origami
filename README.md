@@ -1,9 +1,9 @@
 # 3D-Ring-Origami
-Matlab code for equilibrium states and state transitions of planar elastic rings with out-of-plane natural curvature based on the Kirchhoff rod model
 
 This repository contains the codebase for the numerical implementation of the Kirchhoff rod model used to analyze the equilibrium states and state transitions of planar elastic rings with out-of-plane natural curvature, as studied in our paper titled “2D-to-3D transformation of ring origami via snap-folding instabilities”. 
 
 •	Code-I computes the equilibrium path and equilibrium configuration of a planar ring with out-of-plane natural curvature. 
+
 •	Code-II computes the moment-bending angle curve, energy landscape, and state transition process of a planar ring with out-of-plane natural curvature under external bending loads.
 
 To run these codes, you first need to install the Continuation Core and Toolboxes (COCO) for MATLAB, which is available at: https://sourceforge.net/projects/cocotools/. After downloading all the codes into a single folder, run the SquareETCoco.m script. Inline instructions are included in the script to help users run and modify the code effectively.
