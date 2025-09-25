@@ -10,7 +10,7 @@ To run these codes, you first need to install the Continuation Core and Toolboxe
 
 Please note that the codes uploaded here are specifically designed for the analysis of square rings with all edges having the same out-of-plane natural curvature (referred to as type-I square ring in the paper). For other types of rings, users can adapt the codes accordingly based on the rod model described in our paper.
 
-![ht025_kn2_asmmetry1-ezgif com-added-text](https://github.com/user-attachments/assets/c1dc996c-6feb-40eb-838a-5747c5c4457c) ![bendinward_kn05-ezgif com-added-text](https://github.com/user-attachments/assets/7e3b7c87-cdc8-49c8-91aa-d590425d2e8d)
+![ht025_kn2_asmmetry1-ezgif com-crop](https://github.com/user-attachments/assets/b9c4fdeb-43db-4e6f-a7f2-1a0448edb8f4) ![bendinward_kn05-ezgif com-crop](https://github.com/user-attachments/assets/6fe809b4-6e46-4298-9005-f7dd0508e989)
 
 # Citation
 Lu, L., Leanza, S., Ning, L., & Zhao, R. R. (2025). 2D-to-3D transformation of ring origami via snap-folding instabilities. arXiv preprint arXiv:2509.02467.
