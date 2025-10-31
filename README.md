@@ -13,4 +13,4 @@ Please note that the codes uploaded here are specifically designed for the analy
 ![ht025_kn2_asmmetry1-ezgif com-crop (1)](https://github.com/user-attachments/assets/7c1d7c4a-68a5-4db3-b8f6-b4c61eca599e)![bendinward_kn05-ezgif com-crop](https://github.com/user-attachments/assets/6fe809b4-6e46-4298-9005-f7dd0508e989)
 
 # Citation
-Lu, L., Leanza, S., Ning, L., & Zhao, R. R. (2025). 2D-to-3D transformation of ring origami via snap-folding instabilities. Journal of the Mechanics and Physics of Solids, 106404.
+Lu, L., Leanza, S., Ning, L., & Zhao, R. R. (2026). 2D-to-3D transformation of ring origami via snap-folding instabilities. Journal of the Mechanics and Physics of Solids, 206, 106404.
